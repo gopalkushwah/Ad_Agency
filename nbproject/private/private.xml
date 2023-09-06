@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/servlets/UploadAdsImageServlet.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Entities/AdBuyerEntity.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Entities/AdsEntity.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/dao/AdBuyerDao.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/dao/ContactUsDao.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/dao/UserDao.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/DBconnection/DBConnection.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Cookies/UserDefinedCookies.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Entities/UserEntity.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/servlets/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/dao/AdsDao.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Entities/AdminEntity.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/dao/AdminDao.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/servlets/ContactUsServlet.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/Entities/ContactUsEntity.java</file>
+            <file>file:/C:/Users/gopal/OneDrive/Documents/NetBeansProjects/Ad_Agency/src/java/com/ramaasoft/servlets/AdminChangePassword.java</file>
+        </group>
+    </open-files>
+</project-private>

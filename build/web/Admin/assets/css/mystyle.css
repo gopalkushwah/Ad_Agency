@@ -1,0 +1,43 @@
+:root {
+  --color-default: #222222;
+  --color-primary: #2B2730;
+  --color-secondary: #f85a40;
+}
+:root {
+  --my-box-shadow: 0px 0px 30px rgba(1, 41, 112, 0.1);
+}
+.custom-signup-contianer{
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+}
+.box-shadow{
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.custom-reg-btn{
+    outline: none;
+    border: 2px solid white;
+    background: black;
+    color: white;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.custom-reg-btn:hover{
+    border: 2px solid var(--color-default);
+    background: white;
+    font-weight: 600;
+    color: var(--color-default);
+    box-shadow:inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+.form-control:focus ,.form-select:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: rgba(0,0,255,.5);
+    outline: 0;
+    box-shadow: 0 0 0 0.15rem rgba(0,0,255,.5);
+}
+.form-group label {
+    font-weight: 600;
+    color: rgba(1, 41, 112, 0.6);
+}

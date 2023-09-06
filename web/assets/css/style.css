@@ -1,0 +1,55 @@
+
+:root {
+  --color-default: #222222;
+  --color-primary: #2B2730;
+  --color-secondary: #f85a40;
+}
+body{
+    overflow-x: hidden !important;
+}
+.box-shadow{
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+.my-box-shadow{
+    box-shadow: 2px 2px 0px rgba(0,0,0,0.5);
+}
+.my-box-shadow-1{
+    box-shadow: 5px 5px 3px rgba(0,0,0,0.5);
+}
+.bg-dark-custom{
+    background-color: var(--color-default);
+}
+.custom-reg-btn{
+    outline: none;
+    border: 2px solid white;
+    background: none;
+    color: white;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.custom-reg-btn:hover{
+    border: 2px solid var(--color-default);
+    background: white;
+    font-weight: 600;
+    color: var(--color-default);
+    box-shadow:inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(255,0,0,.5);
+}
+.navbar a i {
+    font-size: 27px !important;
+    line-height: 0;
+    margin-left: 5px;
+}
+.blog .blog-pagination li.active{
+    background-color: red !important;
+}
+.blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
+    color: white;
+    background-color: red !important;
+}
